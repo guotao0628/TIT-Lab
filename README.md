@@ -1,4 +1,4 @@
-# Turing Institute of Technology，TIT Lab
+ <p align="center"># Turing Institute of Technology，TIT Lab<p align="center">
 
 ------------------------------------------------------------------
 
@@ -16,7 +16,6 @@
 
 ----------------------------------------------------------------------
 
-# Turing Institute of Technology(TIT Lab) 
 
 TIT Lab is a non-profit computer-science promoting organization aimed at providing a lifelong learning platform for society. With the thought of crowdsourcing, TIT Lab covers the fields of Artificial Intelligence(AI), Machine Learning(ML), Data Mining(DM) and Data Science(DS), as well as  technology forward multidisciplines like Geographical Information System(GIS) , Remote Sensing Science and Technology(RRST) and Advanced Translation.(AT) All lab members can enjoy a lifelong learning and skil developing.
 
@@ -36,4 +35,4 @@ Six Reseach Fields
 
  ![](TIT lab/TIT.png)
 
-                                           TIT lab
+ <p align="center">TIT lab<p align="center">
