@@ -7,12 +7,12 @@
 
 目前TIT Lab设立六个研究方向：
 
-#### 1.  人工智能（Artificial Intelligence, AI）
-#### 2. 机器学习与模式识别（Machine Learning, ML）
-#### 3.  数据科学（ Data Science, DS）
-#### 4. （时空）数据挖掘与分析（Data Mining, DM）
-#### 5. 遥感智能分析（Remote Sensing Intelligence ，RSI）
-#### 6. 高级翻译（Advanced Translation，AT）
+* 1.  人工智能（Artificial Intelligence, AI）
+* 2. 机器学习与模式识别（Machine Learning, ML）
+* 3.  数据科学（ Data Science, DS）
+* 4. （时空）数据挖掘与分析（Data Mining, DM）
+* 5. 遥感智能分析（Remote Sensing Intelligence ，RSI）
+* 6. 高级翻译（Advanced Translation，AT）
 
 ----------------------------------------------------------------------
 
@@ -22,12 +22,12 @@ TIT Lab is a non-profit computer-science promoting organization aimed at providi
 
 Six Reseach Fields
 
-#### 1.	Artificial Intelligence, AI
-#### 2.	Machine Learning, ML
-#### 3.	Data Science, DS
-#### 4.	Data Mining, DM
-#### 5.	Remote Sensing Intelligence ，RSI
-#### 6.	Advanced Translation， AT
+* 1.	Artificial Intelligence, AI
+* 2.	Machine Learning, ML
+* 3.	Data Science, DS
+* 4.	Data Mining, DM
+* 5.	Remote Sensing Intelligence ，RSI
+* 6.	Advanced Translation， AT
 
 -------------------------------------------------------------------------
 
