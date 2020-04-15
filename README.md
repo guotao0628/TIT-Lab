@@ -1,4 +1,4 @@
- <p align="center"># Turing Institute of Technology，TIT Lab<p align="center">
+ <p align="center"> Turing Institute of Technology，TIT Lab<p align="center">
 
 ------------------------------------------------------------------
 
@@ -33,6 +33,6 @@ Six Reseach Fields
 
 
 
- ![](TIT lab/TIT.png)
+ ![](TIT-Lab/TIT lab/TIT.png)
 
  <p align="center">TIT lab<p align="center">
