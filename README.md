@@ -31,6 +31,6 @@ Six Reseach Fields
 
 
 
- ![TIT-Lab/TIT lab](TIT.png)
+ ![TIT-Lab/TIT lab/tree/master/TIT%20lab](TIT.png)
 
  <p align="center">TIT lab<p align="center">
