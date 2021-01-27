@@ -14,7 +14,7 @@ Turing Institute of Technology，TIT Lab
 
 4. 机器学习与模式识别（Machine Learning, ML）
 
-5. 智能空间信息处理与时空大数据挖掘
+5. 智能空间信息处理与大数据挖掘与分析
 
 6. 高级翻译（Advanced Translation，AT）
 
