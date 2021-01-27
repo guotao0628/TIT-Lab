@@ -7,10 +7,15 @@ Turing Institute of Technology，TIT Lab
 目前TIT Lab设立六个研究方向：
 
 1.人工智能（Artificial Intelligence, AI）
+
 2. 智能科学与技术（智能机器人技术）
+
 3. 软件工程技术（大数据平台）
+
 4. 机器学习与模式识别（Machine Learning, ML）
+
 5. 智能空间信息处理与时空大数据挖掘
+
 6. 高级翻译（Advanced Translation，AT）
 
 
