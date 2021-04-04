@@ -1,4 +1,4 @@
-<p align="center"># Turing Institute of Technology，TIT Lab<p align="center">
+<p align="center">  Turing Institute of Technology，TIT Lab<p align="center">
  
 ------------------------------------------------------------------
 
